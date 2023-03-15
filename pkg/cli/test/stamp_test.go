@@ -20,10 +20,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/ex-preman/pdfcpu/pkg/cli"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/model"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/types"
 )
 
 func testAddWatermarks(t *testing.T, msg, inFile, outFile string, selectedPages []string, mode, modeParm, desc string, onTop bool) {

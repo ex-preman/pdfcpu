@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
+	"github.com/ex-preman/pdfcpu/pkg/api"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/color"
 )
 
 // Acrobat Reader "Bookmarks" = Mac Preview "Table of Contents".

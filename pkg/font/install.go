@@ -30,7 +30,7 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/ex-preman/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

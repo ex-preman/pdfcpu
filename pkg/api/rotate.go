@@ -21,9 +21,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/ex-preman/pdfcpu/pkg/log"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/model"
 )
 
 // Rotate rotates selected pages of rs clockwise by rotation degrees and writes the result to w.

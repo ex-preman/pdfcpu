@@ -1,12 +1,12 @@
 # pdfcpu: a Go PDF processor
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/pdfcpu/pdfcpu)
-[![Test](https://github.com/pdfcpu/pdfcpu/workflows/Test/badge.svg)](https://github.com/pdfcpu/pdfcpu/actions)
+[![Test](https://github.com/ex-preman/pdfcpu/workflows/Test/badge.svg)](https://github.com/ex-preman/pdfcpu/actions)
 [![Coverage Status](https://coveralls.io/repos/github/pdfcpu/pdfcpu/badge.svg?branch=master)](https://coveralls.io/github/pdfcpu/pdfcpu?branch=master)
-[![GoDoc](https://godoc.org/github.com/pdfcpu/pdfcpu?status.svg)](https://pkg.go.dev/github.com/pdfcpu/pdfcpu)
-[![Go Report Card](https://goreportcard.com/badge/github.com/pdfcpu/pdfcpu)](https://goreportcard.com/report/github.com/pdfcpu/pdfcpu)
+[![GoDoc](https://godoc.org/github.com/ex-preman/pdfcpu?status.svg)](https://pkg.go.dev/github.com/ex-preman/pdfcpu)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ex-preman/pdfcpu)](https://goreportcard.com/report/github.com/ex-preman/pdfcpu)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Latest release](https://img.shields.io/github/release/pdfcpu/pdfcpu.svg)](https://github.com/pdfcpu/pdfcpu/releases)
+[![Latest release](https://img.shields.io/github/release/pdfcpu/pdfcpu.svg)](https://github.com/ex-preman/pdfcpu/releases)
 
 <a href="https://pdfcpu.io"><img src="resources/logoSmall.png" width="150"></a>
 
@@ -80,13 +80,13 @@ The main focus lies on strong support for batch processing and scripting via a r
 
 * The main entry point is [pdfcpu.io](https://pdfcpu.io).
 * For CLI examples also go to [pdfcpu.io](https://pdfcpu.io). There you will find explanations of all the commands and their parameters.
-* For API examples of all pdfcpu operations please refer to [GoDoc](https://pkg.go.dev/github.com/pdfcpu/pdfcpu/pkg/api).
+* For API examples of all pdfcpu operations please refer to [GoDoc](https://pkg.go.dev/github.com/ex-preman/pdfcpu/pkg/api).
 
 ### GoDoc
 
-* [pdfcpu package](https://pkg.go.dev/github.com/pdfcpu/pdfcpu)
-* [pdfcpu API](https://pkg.go.dev/github.com/pdfcpu/pdfcpu/pkg/api)
-* [pdfcpu CLI](https://pkg.go.dev/github.com/pdfcpu/pdfcpu/pkg/cli)
+* [pdfcpu package](https://pkg.go.dev/github.com/ex-preman/pdfcpu)
+* [pdfcpu API](https://pkg.go.dev/github.com/ex-preman/pdfcpu/pkg/api)
+* [pdfcpu CLI](https://pkg.go.dev/github.com/ex-preman/pdfcpu/pkg/cli)
 
 ## Reminder
 
@@ -105,13 +105,13 @@ The main focus lies on strong support for batch processing and scripting via a r
 ## Installation
 
 ### Download
-Get the latest binary [here](https://github.com/pdfcpu/pdfcpu/releases).
+Get the latest binary [here](https://github.com/ex-preman/pdfcpu/releases).
 
 
 ### Using Go Modules
 
 ```
-git clone https://github.com/pdfcpu/pdfcpu
+git clone https://github.com/ex-preman/pdfcpu
 cd pdfcpu/cmd/pdfcpu
 go install
 pdfcpu version
