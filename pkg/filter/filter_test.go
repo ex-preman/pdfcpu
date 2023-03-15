@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
+	"github.com/ex-preman/pdfcpu/pkg/filter"
 )
 
 // Encode a test string twice with same filter

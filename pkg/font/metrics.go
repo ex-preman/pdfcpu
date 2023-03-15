@@ -26,8 +26,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/internal/corefont/metrics"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/ex-preman/pdfcpu/internal/corefont/metrics"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/types"
 
 	"github.com/pkg/errors"
 )

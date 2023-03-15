@@ -27,9 +27,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/ex-preman/pdfcpu/pkg/filter"
+	"github.com/ex-preman/pdfcpu/pkg/log"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

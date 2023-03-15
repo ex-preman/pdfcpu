@@ -22,14 +22,14 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/ex-preman/pdfcpu/pkg/api"
+	"github.com/ex-preman/pdfcpu/pkg/font"
+	pdf "github.com/ex-preman/pdfcpu/pkg/pdfcpu"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/color"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/draw"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/model"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/types"
 )
 
 func writeCoreFontDemoContent(xRefTable *model.XRefTable, p model.Page, fontName string) {

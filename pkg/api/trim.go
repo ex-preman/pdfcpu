@@ -21,8 +21,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/ex-preman/pdfcpu/pkg/log"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/model"
 )
 
 // Trim generates a trimmed version of rs

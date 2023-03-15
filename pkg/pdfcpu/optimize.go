@@ -20,11 +20,11 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/form"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/ex-preman/pdfcpu/pkg/log"
+	pdffont "github.com/ex-preman/pdfcpu/pkg/pdfcpu/font"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/form"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/model"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

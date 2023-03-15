@@ -19,9 +19,9 @@ package primitives
 import (
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/ex-preman/pdfcpu/pkg/font"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/color"
+	"github.com/ex-preman/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 
